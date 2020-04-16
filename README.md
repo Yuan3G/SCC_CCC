@@ -1,1 +1,1 @@
-# Short-Circuit-Calculation
+# 面向电力系统设计的短路计算辅助软件开
